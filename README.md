@@ -12,7 +12,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="javascript" width="22px" src="https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg" />
+<img align="left" alt="javascript" width="22px" src="![javascript](https://user-images.githubusercontent.com/95203744/185274513-958a19c9-360c-4ffe-ad4e-17ada6f75caf.png)" />
 
 <br />
 <br />
