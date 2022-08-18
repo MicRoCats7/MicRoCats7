@@ -12,8 +12,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="javascript" width="22px" src="![image](https://user-images.githubusercontent.com/95203744/185273561-8c394d38-9357-4676-aaae-80d0ff7bc93c.png)
-" />
+<img align="left" alt="javascript" width="22px" src="https://mpng.subpng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" />
 
 <br />
 <br />
