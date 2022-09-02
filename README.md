@@ -2,7 +2,7 @@
 <h3 align="center">To move the earth, you must first move yourself.</h3>
 
 ### Connect with me:
-<img align="right" alt="kucing" width="30px" src"omid-armin-NSN2T1SHrvU-unsplash-removebg-preview
+<img align="right" alt="kucing" width="30px" src"omid-armin-NSN2T1SHrvU-unsplash-removebg-preview" />
 
 
 <a href="https://www.instagram.com/amri_iqroo/?hl=id" target="_blank"><img align="left" alt="amri_iqroo | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
