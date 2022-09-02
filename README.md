@@ -16,7 +16,7 @@
 <img align="left" alt="react" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
 <img align="left" alt="android" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png"/>
 <img align="left" alt="flutter" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"/>
-<img align="left" alt="java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png https://academy.alterra.id/blog/wp-content/uploads/2021/06/java.png"/>
+<img align="left" alt="java" width="30px" src="https://academy.alterra.id/blog/wp-content/uploads/2021/06/java.png"/>
 
 <br />
 <br />
