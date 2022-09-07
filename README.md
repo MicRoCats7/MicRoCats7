@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
-<h3 align="center">To move the earth, you must first move yourself.</h3>
+<h3 align="center">Never demean others because the one who demeans is the lower.</h3>
 
 ### Connect with me:
 
