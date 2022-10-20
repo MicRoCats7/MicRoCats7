@@ -1,5 +1,5 @@
 <p align="center">
-  img src="https://lottiefiles.com/29178-cat-in-box#" width="120px"/>
+  img src="https://lottiefiles.com/29178-cat-in-box" width="120px"/>
 </p>
 
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
