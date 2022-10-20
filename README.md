@@ -1,3 +1,7 @@
+<p align="center">
+  img src="https://assets1.lottiefiles.com/packages/lf20_Zz37yH.json" width="120px"/>
+</p>
+
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
 <h3 align="center">Never demean others because the one who demeans is the lower.</h3>
 
