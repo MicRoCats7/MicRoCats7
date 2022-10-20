@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="32147-cute-cat-works-unscreen.gif" width="120px"/>
+    <img src="blob:https://www.unscreen.com/2f325a83-54bb-415f-b2c8-b103e22944e8" width="120px"/>
 </p>
 
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
