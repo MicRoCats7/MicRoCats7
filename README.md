@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lottiefiles.com/29178-cat-in-box" width="120px"/>
+  <iframe src="https://embed.lottiefiles.com/animation/29178"></iframe>
 </p>
 
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
