@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="29178-cat-in-box https://user-images.githubusercontent.com/95203744/196837678-b77b87e7-da74-43da-9c1d-f170fc80b905.gif" width="120px"/>
+    <img src="https://user-images.githubusercontent.com/95203744/196837678-b77b87e7-da74-43da-9c1d-f170fc80b905.gif" width="120px"/>
 </p>
 
 <h1 align="center">Hello 👋🏻, I'm Amri Iqra S.A</h1>
