@@ -10,7 +10,7 @@
 
 <a href="https://www.instagram.com/amri_iqroo/?hl=id" target="_blank"><img align="left" alt="amri_iqroo | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/amri_iqro" target="_blank"><img align="left" alt="amri_iqroo | Twitter" width="22px" src="https://user-images.githubusercontent.com/95203744/201241099-9df590ff-3095-4f13-9f4e-efb9b29873c9.png" />
-<a href="linkedin.com/in/amri-iqra-samudra-al-fatihah-a3ba07251" target="_blank"><img align="left" alt="amri_iqroo | Linkedin" width="22px" src="https://user-images.githubusercontent.com/95203744/201244094-ba68a372-9a29-49bd-b5e2-b93b9301b520.png" />
+<a href="https://www.linkedin.com/in/amri-iqra-samudra-al-fatihah-a3ba07251/" target="_blank"><img align="left" alt="amri_iqroo | Linkedin" width="22px" src="https://user-images.githubusercontent.com/95203744/201244094-ba68a372-9a29-49bd-b5e2-b93b9301b520.png" />
 
 <br />
 <br />
