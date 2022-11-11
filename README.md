@@ -9,6 +9,7 @@
 
 
 <a href="https://www.instagram.com/amri_iqroo/?hl=id" target="_blank"><img align="left" alt="amri_iqroo | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/amri_iqro" target="_blank"><img align="left" alt="amri_iqroo | Twitter" width="22px" src="https://user-images.githubusercontent.com/95203744/201240728-eaf08f32-9ef1-453a-9a83-9cd40f21fc2c.png" />
 
 <br />
 <br />
