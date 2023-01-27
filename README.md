@@ -33,12 +33,3 @@
 <img align="left" alt="Intelij IDEA" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
  <img align="left" alt="WebStorm" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-
----
-
-<a href="https://github.com/MicRoCats7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicRoCats7&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicRoCats7&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
