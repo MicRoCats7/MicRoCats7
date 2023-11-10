@@ -22,6 +22,7 @@
 <img align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="react" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
 <img align="left" alt="tailwind-css" width="30px" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />
+<img align="left" alt="typescript" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATypescript.svg&psig=AOvVaw3gXJXH2SWa-VN-0sXdHjYD&ust=1699693722150000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjKvtWKuYIDFQAAAAAdAAAAABAE" />
 
 <br />
 <br />
